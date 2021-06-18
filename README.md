@@ -23,17 +23,17 @@ Oluşturduğumuz veritabanındaki verilere hazırlanan açık kaynak kodlu web s
   
 ## Nasıl Çalışır ?
   Sisteme admin giriş yapıldığında anasayfaya yönlendirilir. Anasayfada; 
- - Müşteri İşlemleri
+ ### Müşteri İşlemleri
     Bu sayfada sisteme kayıtlı müşterilerin listesini gösterilmektedir. 
     Sil butonuna basarak müşteriyi silebirisiniz. 
     Güncelle butonuna basarak müşterinin bilgilerini güncelleyebilirsiniz.
     Müşteri ekle formunu doldurarak veritabanına yeni müşteriler ekleyebilirisiniz.
- - Ürün İşlemleri
+ ### Ürün İşlemleri
     Bu sayfada sisteme kayıtlı ürünlerin listesini gösterilmektedir. 
     Sil butonuna basarak ürünü silebirisiniz. 
     Güncelle butonuna basarak ürünün bilgilerini güncelleyebilirsiniz.
     Ürün ekle formunu doldurarak veritabanına yeni ürünler ekleyebilirisiniz.
- - Çıkış
+ ### Çıkış
 
  gibi sayfalara ilerleyerek sistemi test edebilirsiniz.
 
