@@ -6,11 +6,6 @@ Veritabanı Bağlantılı Web Projesi
 
 ## Projenin Amacı
 Oluşturduğumuz veritabanındaki verilere hazırlanan açık kaynak kodlu web sitesinden sql sorguları ile listeleme, ekleme, silme, güncelleme işlemlerini yaptırabilmek. 
-    
-## Projede kullanılan teknolojiler
- - HTML
- - CSS
- - PHP
 
 ## Admin Girişi Bilgileri  
   - Admin Mail: admin@mail.com
@@ -20,6 +15,11 @@ Oluşturduğumuz veritabanındaki verilere hazırlanan açık kaynak kodlu web s
   - Kullanıcı Adı: 285515
   - Parola: 244524
   bilgiler ile [buradan](http://mobilya.orgfree.com/pma/) veritabanını inceleyebilirsiniz.
+  
+## Projede kullanılan teknolojiler
+ - HTML
+ - CSS
+ - PHP
   
 ## Nasıl Çalışır ?
   Sisteme admin giriş yapıldığında anasayfaya yönlendirilir. Anasayfada; 
